@@ -7,15 +7,17 @@ p:hover {
     h5
     {
         color:rgb(20, 19, 19);}
-h2:hover{
+h1:hover{
     color:rgb(40, 20, 58);
 }
-  
+h1 {
+    color:rgb(227, 165, 40);
+    text-shadow: 10px 10px 10px;
+}
 h2{
     color:rgb(13, 167, 44);
-    text-shadow: 3px 3px 5px;
 }
-h3s{
+h3{
     color:rgba(106, 141, 17, 0.393);}
 
 h3{
@@ -65,4 +67,50 @@ th {
             border-right: 4px dashed rgb(230, 204, 204);
             border-bottom: 8px double rgb(235, 235, 176);
             border-left: 16px inset rgb(230, 182, 230);
-         }
+        }
+        ul {
+            list-style-type: none;
+            margin: 4px;
+            padding: 5 px;
+            overflow: hidden;
+            background-color: rgb(145, 25, 45);
+          }
+          
+          li {
+            float: left;
+          }
+          
+          li a {
+            display: block;
+            color: rgb(156, 154, 154);
+            text-align: center;
+            padding: 13px 16px;
+            text-decoration: none;
+          }
+          
+          li a:hover {
+            background-color:rgb(139, 35, 174);
+          }
+          ul {
+        list-style-type: none;
+        margin: 3px;
+        padding: 3 px;
+        overflow: hidden;
+        background-color: rgb(175, 166, 43);
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: rgb(232, 226, 226);
+        text-align: center;
+        padding: 13px 16px;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color:rgb(108, 44, 130);
+      }
