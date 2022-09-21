@@ -1,0 +1,68 @@
+body{
+    background-color:rgba(90, 175, 196, 0.169);
+}
+p:hover {
+    background-color:rgb(70, 106, 163);
+}
+    h5
+    {
+        color:rgb(20, 19, 19);}
+h2:hover{
+    color:rgb(40, 20, 58);
+}
+  
+h2{
+    color:rgb(13, 167, 44);
+    text-shadow: 3px 3px 5px;
+}
+h3s{
+    color:rgba(106, 141, 17, 0.393);}
+
+h3{
+    color:rgb(29, 101, 152);}
+h3{
+    font-size:20px;}
+
+p{
+    color:rgb(21, 16, 19);}
+span{
+    color:rgb(21, 95, 76);}
+span:hover{
+    background-color:rgb(243, 224, 241);}
+h3{
+    font-style: italic;}
+
+h4{
+    font-style: inherit;}
+.splendid{
+    font: size 5px;
+    color:rgba(95, 9, 121, 0.592);
+}
+table{
+    border-style: double;
+}
+th, td {
+    border: 1px solid black;
+  }
+th {
+   color:purple;
+      }
+      td{
+        color:rgb(234, 236, 237);
+      }
+       tr:nth-child(even) {
+        background-color:rgb(135, 83, 214);
+      }
+      td {
+        text-align: center;
+        }
+        th,td {
+            width: 300px;
+            padding:0px 10px 10px 10px;
+            margin: -28px 0px -15px 150px;
+            background: rgb(210, 212, 212);
+            border-top: 2px solid rgb(225, 194, 194);
+            border-right: 4px dashed rgb(230, 204, 204);
+            border-bottom: 8px double rgb(235, 235, 176);
+            border-left: 16px inset rgb(230, 182, 230);
+         }
